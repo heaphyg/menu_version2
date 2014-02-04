@@ -1,0 +1,35 @@
+body {
+    background: #67655D url('noisy-texture-100x100-o12-d26-c-f74f58-t0.png') repeat;
+}
+
+
+#logo {
+    display: block;
+    text-align: center;
+}
+
+#drinks ul {
+	text-align: center;
+	list-style:none;
+
+}
+
+#pizza ul {
+	text-align: center;
+	list-style:none;
+
+}
+
+#desert ul {
+	text-align: center;
+	list-style:none;
+
+}
+
+
+
+
+h2 {
+	text-align: center;
+}
+
